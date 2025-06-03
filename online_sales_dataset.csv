@@ -1,0 +1,100 @@
+product_id,StockCode,Description,Quantity,order_date,UnitPrice,CustomerID,Country,Discount,PaymentMethod,ShippingCost,Category,SalesChannel,ReturnStatus,ShipmentProvider,WarehouseLocation,OrderPriority
+221958,SKU_1964,White Mug,38,1/1/2020,1.71,37039,Australia,0.47,Bank Transfer,10.79,Apparel,In-store,Not Returned,UPS,London,Medium
+771155,SKU_1241,White Mug,18,1/1/2020,41.25,19144,Spain,0.19,paypall,9.51,Electronics,Online,Not Returned,UPS,Rome,Medium
+231932,SKU_1501,Headphones,49,1/1/2020,29.11,50472,Germany,0.35,Bank Transfer,23.03,Electronics,Online,Returned,UPS,Berlin,High
+465838,SKU_1760,Desk Lamp,14,1/1/2020,76.68,96586,Netherlands,0.14,paypall,11.08,Accessories,Online,Not Returned,Royal Mail,Rome,Low
+359178,SKU_1386,USB Cable,-30,1/1/2020,-68.11,Nan,United Kingdom,1.501433043,Bank Transfer,Nan,Electronics,In-store,Not Returned,FedEx,Nan,Medium
+744167,SKU_1006,Office Chair,47,1/1/2020,70.16,53887,Sweden,0.48,Credit Card,13.98,Electronics,Online,Not Returned,DHL,London,Medium
+210268,SKU_1087,USB Cable,25,1/1/2020,85.74,46567,Belgium,0.15,Bank Transfer,12.92,Stationery,Online,Not Returned,FedEx,Amsterdam,High
+832180,SKU_1597,Notebook,8,1/1/2020,95.65,75098,Norway,0.04,Bank Transfer,6.48,Electronics,In-store,Not Returned,Royal Mail,Amsterdam,Low
+154886,SKU_1907,Wireless Mouse,19,1/1/2020,98.19,87950,Belgium,0.05,paypall,12.56,Apparel,Online,Not Returned,UPS,Berlin,High
+237337,SKU_1866,Headphones,40,1/1/2020,98.17,39718,Italy,0.16,Bank Transfer,7.71,Apparel,Online,Not Returned,Royal Mail,London,Low
+621430,SKU_1144,Notebook,49,1/1/2020,87.56,13030,United Kingdom,0.19,paypall,9.83,Stationery,In-store,Returned,UPS,Paris,Medium
+187498,SKU_1450,Office Chair,41,1/1/2020,59.51,32466,Australia,0.39,Bank Transfer,12,Furniture,In-store,Not Returned,FedEx,Amsterdam,Low
+999159,SKU_1330,Blue Pen,41,1/1/2020,25.59,89794,Australia,0.01,Credit Card,15.58,Electronics,In-store,Not Returned,FedEx,Berlin,Medium
+275203,SKU_1709,Headphones,3,1/1/2020,2.09,97817,Spain,0.47,Credit Card,19.22,Stationery,Online,Not Returned,Royal Mail,Paris,Low
+291335,SKU_1874,Wall Clock,29,1/1/2020,35.88,43017,Portugal,0.06,Credit Card,14.85,Electronics,Online,Not Returned,Royal Mail,Amsterdam,High
+378167,SKU_1163,T-shirt,16,1/1/2020,82.58,85852,Belgium,0.41,Bank Transfer,27.02,Furniture,In-store,Not Returned,UPS,Amsterdam,High
+141090,SKU_1656,Office Chair,7,1/1/2020,70.85,15473,Germany,0,Bank Transfer,23.66,Apparel,In-store,Not Returned,FedEx,Paris,High
+429365,SKU_1341,Headphones,49,1/1/2020,14.91,55644,Netherlands,0.36,Bank Transfer,5.32,Stationery,Online,Not Returned,Royal Mail,Paris,Medium
+164820,SKU_1000,Backpack,21,1/1/2020,1.07,20566,Sweden,0.49,Bank Transfer,15.09,Accessories,Online,Not Returned,FedEx,London,Medium
+887201,SKU_1119,USB Cable,46,1/1/2020,27.03,19819,Spain,0.26,Credit Card,23.8,Furniture,In-store,Returned,UPS,London,Medium
+421879,SKU_1578,Wall Clock,43,1/1/2020,77.17,24716,Norway,0.3,Bank Transfer,24.77,Accessories,In-store,Returned,FedEx,Berlin,Low
+818315,SKU_1463,Notebook,14,1/1/2020,66.89,16604,Norway,0.42,paypall,15.05,Furniture,Online,Not Returned,FedEx,Berlin,High
+427069,SKU_1866,Wireless Mouse,39,1/1/2020,66.18,45103,Sweden,0.07,Bank Transfer,27.02,Accessories,Online,Not Returned,Royal Mail,Paris,High
+876997,SKU_1461,T-shirt,24,1/1/2020,70.01,14803,Norway,0.12,Credit Card,13.16,Stationery,Online,Not Returned,Royal Mail,Paris,Low
+299041,SKU_1048,T-shirt,48,1/2/2020,27.87,26772,France,0.24,Bank Transfer,19.61,Electronics,Online,Not Returned,UPS,Berlin,Low
+891743,SKU_1818,Blue Pen,30,1/2/2020,59.53,62114,Germany,0.25,paypall,23.67,Stationery,Online,Not Returned,DHL,Rome,Low
+203355,SKU_1326,USB Cable,33,1/2/2020,97.96,38576,Italy,0.23,Bank Transfer,7.25,Stationery,Online,Not Returned,Royal Mail,Paris,High
+335796,SKU_1473,Wall Clock,22,1/2/2020,28.73,60532,Netherlands,0.25,Credit Card,8.44,Apparel,Online,Not Returned,FedEx,Rome,Medium
+314176,SKU_1887,Office Chair,10,1/2/2020,86.71,47802,Australia,0.36,Credit Card,16.86,Furniture,Online,Not Returned,DHL,Amsterdam,Low
+284779,SKU_1938,USB Cable,11,1/2/2020,90.69,98066,United States,0.39,Credit Card,25.31,Furniture,Online,Not Returned,DHL,Amsterdam,Medium
+447449,SKU_1367,White Mug,15,1/2/2020,40.36,83531,Portugal,0.03,Credit Card,6.14,Stationery,In-store,Not Returned,Royal Mail,Rome,High
+521909,SKU_1286,White Mug,48,1/2/2020,8.39,59307,Netherlands,0.08,Bank Transfer,15.29,Electronics,In-store,Not Returned,Royal Mail,Amsterdam,Medium
+358795,SKU_1023,Headphones,30,1/2/2020,99.31,61358,United Kingdom,0.31,Credit Card,22.31,Accessories,Online,Not Returned,Royal Mail,Berlin,Medium
+586232,SKU_1722,Wall Clock,14,1/2/2020,10.32,54696,France,0.01,Credit Card,28.9,Stationery,In-store,Returned,DHL,Rome,Low
+600186,SKU_1292,Headphones,32,1/2/2020,82.94,26741,Netherlands,0.15,Credit Card,28.6,Electronics,Online,Not Returned,UPS,Amsterdam,High
+256730,SKU_1448,T-shirt,26,1/2/2020,35.39,28203,Australia,0.02,Bank Transfer,21.07,Stationery,In-store,Not Returned,DHL,Rome,Medium
+970910,SKU_1984,Backpack,21,1/2/2020,61.34,87631,Belgium,0.24,Bank Transfer,9.39,Furniture,In-store,Not Returned,DHL,London,Low
+484681,SKU_1062,Desk Lamp,5,1/2/2020,30.77,41311,Spain,0.31,paypall,15.27,Stationery,In-store,Not Returned,DHL,Amsterdam,Low
+249503,SKU_1567,Wireless Mouse,47,1/2/2020,38.11,52219,France,0.27,paypall,25.15,Stationery,In-store,Not Returned,UPS,Paris,Medium
+754811,SKU_1457,T-shirt,12,1/2/2020,29.06,30037,Portugal,0.15,paypall,12.84,Stationery,Online,Not Returned,UPS,London,Low
+627035,SKU_1529,Notebook,29,1/2/2020,21.32,40568,Spain,0.16,Credit Card,10.88,Furniture,In-store,Not Returned,UPS,Paris,Low
+748143,SKU_1873,Blue Pen,21,1/2/2020,36.85,89341,Australia,0.15,paypall,28.34,Electronics,In-store,Not Returned,UPS,Berlin,Low
+552366,SKU_1960,Backpack,25,1/2/2020,86.68,69201,Australia,0.02,Bank Transfer,23.35,Accessories,In-store,Not Returned,Royal Mail,Berlin,Medium
+165725,SKU_1412,USB Cable,16,1/2/2020,9.08,46393,France,0.04,Bank Transfer,18.69,Apparel,In-store,Not Returned,Royal Mail,Rome,Low
+229981,SKU_1588,Desk Lamp,31,1/2/2020,2.1,47167,Norway,0.29,Bank Transfer,16.04,Furniture,Online,Not Returned,UPS,Amsterdam,Low
+184654,SKU_1259,Wall Clock,20,1/2/2020,24.36,73680,Norway,0.07,Bank Transfer,18.99,Apparel,In-store,Not Returned,FedEx,London,High
+691723,SKU_1632,Wireless Mouse,31,1/2/2020,84.83,57796,Netherlands,0.12,Bank Transfer,23.25,Stationery,In-store,Not Returned,UPS,Paris,High
+419030,SKU_1907,Wireless Mouse,11,1/2/2020,93.1,18741,Australia,0.38,paypall,8.78,Electronics,Online,Not Returned,DHL,Paris,Low
+428947,SKU_1183,T-shirt,32,1/3/2020,81.47,85133,Italy,0,Bank Transfer,9.14,Electronics,Online,Not Returned,DHL,Paris,High
+655839,SKU_1047,Office Chair,48,1/3/2020,4.74,Nan,Belgium,0.22,Credit Card,23.11,Accessories,Online,Not Returned,UPS,London,High
+373538,SKU_1146,Headphones,8,1/3/2020,20.35,75852,Belgium,0.1,Credit Card,20.37,Stationery,In-store,Not Returned,UPS,Rome,Low
+431236,SKU_1793,Wall Clock,23,1/3/2020,33.63,25739,France,0.33,Bank Transfer,6.6,Apparel,Online,Not Returned,DHL,Rome,Medium
+628178,SKU_1875,Backpack,8,1/3/2020,68.66,79905,Netherlands,0.13,Credit Card,26.31,Stationery,In-store,Not Returned,Royal Mail,London,Low
+665894,SKU_1805,Headphones,2,1/3/2020,33.4,59341,Sweden,0.16,Bank Transfer,18.88,Apparel,Online,Not Returned,Royal Mail,Berlin,Low
+589492,SKU_1591,T-shirt,27,1/3/2020,49.95,28756,Italy,0.3,paypall,10.36,Stationery,In-store,Not Returned,DHL,London,Medium
+356840,SKU_1747,Office Chair,36,1/3/2020,5.04,61799,United Kingdom,0.15,Bank Transfer,27.63,Apparel,In-store,Returned,FedEx,Paris,Low
+573254,SKU_1408,Blue Pen,35,1/3/2020,4.66,32638,Australia,0.27,paypall,19.65,Furniture,In-store,Not Returned,UPS,London,Low
+449457,SKU_1439,Desk Lamp,23,1/3/2020,73.48,80321,Italy,0.37,Bank Transfer,29.57,Stationery,Online,Not Returned,DHL,Amsterdam,High
+765987,SKU_1457,Blue Pen,41,1/3/2020,11.4,35294,Germany,0.08,Bank Transfer,12.87,Accessories,Online,Not Returned,UPS,Berlin,High
+370936,SKU_1228,Backpack,48,1/3/2020,28.29,47376,Belgium,0.33,Bank Transfer,16.89,Apparel,Online,Not Returned,DHL,Rome,High
+339931,SKU_1283,Office Chair,13,1/3/2020,1.47,46641,Spain,0.32,paypall,8.53,Stationery,Online,Not Returned,UPS,London,Low
+339629,SKU_1572,Notebook,31,1/3/2020,55.33,72552,Italy,0.05,Credit Card,25.13,Furniture,Online,Not Returned,Royal Mail,Paris,Low
+305041,SKU_1731,Desk Lamp,45,1/3/2020,54.79,Nan,United Kingdom,0.23,Credit Card,8.97,Accessories,In-store,Not Returned,DHL,Nan,Medium
+798361,SKU_1344,Office Chair,30,1/3/2020,45.18,64580,Netherlands,0.32,Credit Card,13.75,Furniture,Online,Not Returned,UPS,Amsterdam,Medium
+831912,SKU_1600,Wireless Mouse,6,1/3/2020,78.9,54809,Italy,0.1,Bank Transfer,12.89,Accessories,Online,Not Returned,DHL,Berlin,High
+517113,SKU_1946,Notebook,20,1/3/2020,39,43390,Italy,0.09,paypall,21.67,Electronics,Online,Not Returned,Royal Mail,Berlin,Medium
+168148,SKU_1907,Wireless Mouse,26,1/3/2020,25.56,59957,United States,0.48,Bank Transfer,10.4,Electronics,In-store,Not Returned,UPS,London,High
+877089,SKU_1263,Office Chair,36,1/3/2020,34.13,68005,Italy,0.32,Bank Transfer,20.69,Apparel,Online,Not Returned,FedEx,Paris,Medium
+748531,SKU_1739,USB Cable,19,1/3/2020,69.38,96641,Norway,0.33,paypall,27.74,Furniture,Online,Not Returned,UPS,Amsterdam,Medium
+351995,SKU_1377,USB Cable,22,1/3/2020,94.81,33544,Germany,0.43,Bank Transfer,25.61,Accessories,In-store,Not Returned,UPS,London,Medium
+778843,SKU_1102,Wall Clock,12,1/3/2020,70.77,94953,Germany,0.33,Bank Transfer,17,Electronics,In-store,Not Returned,FedEx,Rome,High
+672843,SKU_1953,Headphones,3,1/3/2020,99.17,Nan,United States,0.03,paypall,11.58,Stationery,Online,Not Returned,DHL,London,Medium
+356508,SKU_1599,T-shirt,5,1/4/2020,61.05,55140,Spain,0.45,Bank Transfer,8.03,Electronics,Online,Not Returned,Royal Mail,Rome,Low
+903591,SKU_1022,T-shirt,5,1/4/2020,94.77,55936,Portugal,0.13,Bank Transfer,19.81,Electronics,Online,Not Returned,Royal Mail,Rome,Low
+996942,SKU_1292,White Mug,43,1/4/2020,15.02,34933,Australia,0.02,Credit Card,18.34,Furniture,Online,Not Returned,UPS,Berlin,High
+206530,SKU_1266,Notebook,23,1/4/2020,24.56,14443,Sweden,0.32,paypall,14.23,Stationery,Online,Not Returned,Royal Mail,London,Low
+704365,SKU_1528,Office Chair,14,1/4/2020,66.41,16761,United Kingdom,0.22,paypall,22.68,Furniture,Online,Not Returned,Royal Mail,Amsterdam,High
+922352,SKU_1475,White Mug,49,1/4/2020,49.41,80434,United Kingdom,0.38,Bank Transfer,8.8,Stationery,In-store,Not Returned,Royal Mail,London,Low
+560337,SKU_1951,Blue Pen,39,1/4/2020,36.99,83214,Belgium,0.38,paypall,20.06,Accessories,In-store,Not Returned,DHL,Rome,Medium
+824839,SKU_1948,Blue Pen,7,1/4/2020,36.14,48511,United States,0.34,Bank Transfer,6.87,Furniture,In-store,Not Returned,UPS,Amsterdam,Medium
+905889,SKU_1450,Backpack,35,1/4/2020,30.82,53228,Italy,0.03,Credit Card,8.87,Furniture,Online,Returned,FedEx,Paris,Low
+559773,SKU_1897,Wireless Mouse,38,1/4/2020,81.28,42562,Sweden,0.18,paypall,27.77,Furniture,In-store,Not Returned,DHL,Amsterdam,High
+308261,SKU_1284,Headphones,14,1/4/2020,36.13,96452,Italy,0.34,Credit Card,14.95,Apparel,In-store,Returned,DHL,Berlin,Low
+864469,SKU_1312,USB Cable,17,1/4/2020,8.62,35193,Belgium,0.13,paypall,19.11,Stationery,Online,Not Returned,FedEx,Amsterdam,Low
+441097,SKU_1161,T-shirt,7,1/4/2020,15.96,30966,United Kingdom,0.28,paypall,23.88,Electronics,Online,Not Returned,DHL,Paris,High
+415139,SKU_1589,USB Cable,20,1/4/2020,49.92,62514,Germany,0.4,Bank Transfer,8.34,Electronics,Online,Not Returned,Royal Mail,Rome,Low
+271829,SKU_1121,T-shirt,34,1/4/2020,13.63,61596,Norway,0.08,Bank Transfer,24.2,Stationery,Online,Not Returned,DHL,Berlin,Low
+371836,SKU_1480,T-shirt,30,1/4/2020,83.42,62583,United Kingdom,0.45,Bank Transfer,5.92,Electronics,Online,Not Returned,UPS,Paris,Low
+538974,SKU_1111,Wireless Mouse,40,1/4/2020,91.57,82963,Norway,0.35,paypall,29.97,Accessories,In-store,Not Returned,FedEx,London,High
+302283,SKU_1238,T-shirt,13,1/4/2020,7.54,89681,Belgium,0.38,Credit Card,26.46,Stationery,In-store,Not Returned,Royal Mail,Rome,Low
+296769,SKU_1209,White Mug,6,1/4/2020,87.27,79200,Belgium,0.08,paypall,22.59,Electronics,Online,Not Returned,DHL,Paris,Low
+661353,SKU_1348,White Mug,27,1/4/2020,68.95,28796,United States,0.45,Bank Transfer,18.1,Stationery,Online,Not Returned,UPS,Amsterdam,Medium
+323165,SKU_1510,Backpack,18,1/4/2020,33.22,76428,France,0.22,Bank Transfer,24.77,Stationery,Online,Not Returned,Royal Mail,Rome,Medium
+723587,SKU_1001,Blue Pen,24,1/4/2020,25.98,46156,Italy,0.13,Bank Transfer,16.68,Furniture,Online,Not Returned,FedEx,Amsterdam,Medium
+635822,SKU_1891,Office Chair,32,1/4/2020,41.15,97271,United Kingdom,0.4,Credit Card,7.7,Accessories,Online,Not Returned,DHL,Berlin,High
+587879,SKU_1714,Wall Clock,39,1/4/2020,60.36,90167,Sweden,0.07,Bank Transfer,24.41,Apparel,In-store,Not Returned,UPS,Rome,High
+664685,SKU_1798,Backpack,26,1/5/2020,24.81,95325,Germany,0.4,Credit Card,26.82,Apparel,In-store,Returned,Royal Mail,Rome,Medium
+882038,SKU_1628,White Mug,34,1/5/2020,88.14,41384,Netherlands,0.07,Bank Transfer,12.45,Furniture,Online,Not Returned,UPS,London,High
+453531,SKU_1880,Wall Clock,21,1/5/2020,3.75,84562,Portugal,0.02,Bank Transfer,16.33,Electronics,In-store,Not Returned,DHL,Berlin,Low
